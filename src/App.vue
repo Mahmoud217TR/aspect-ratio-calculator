@@ -9,7 +9,7 @@
     </h1>
   </header>
 
-  <main class="mt-10 mb-20">
+  <main class="mt-10 mb-20 px-8">
     <div class="max-w-2xl mx-auto px-10 py-20 relative overflow-hidden z-10 bg-gray-900 rounded-lg
       shadow-md before:w-24 before:h-24 before:absolute before:bg-indigo-600 before:rounded-full
       before:-z-10 before:blur-2xl after:w-32 after:h-32 after:absolute after:bg-blue-400 after:rounded-full
