@@ -10,12 +10,12 @@ import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
 /* import icons and add them to the Library */
-// import {  faDice, faCopy } from '@fortawesome/free-solid-svg-icons'
+import {  faCircle, faX } from '@fortawesome/free-solid-svg-icons'
 
-// library.add(
-//   faDice,
-//   faCopy
-// )
+library.add(
+  faCircle,
+  faX,
+)
 
 createApp(App)
   .component('font-awesome-icon', FontAwesomeIcon)
